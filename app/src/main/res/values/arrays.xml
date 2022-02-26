@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="currency_name">
+        <item>선택</item>
+        <item>미국 달러</item>
+        <item>유로</item>
+        <item>일본 엔</item>
+        <item>중국 위안</item>
+    </string-array>
+    
+    <string-array name="receive_option">
+        <item>선택</item>
+        <item>공항 수령</item>
+        <item>배달 수령</item>
+    </string-array>
+</resources>
